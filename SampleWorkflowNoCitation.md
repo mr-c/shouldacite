@@ -1,6 +1,6 @@
 Robert is a historian who uses Mendeley to oranise his papers and notes. Should he cite this software?
 
-He doesn’t know so she uses the workflow in the chart:
+He doesn’t know so he uses the workflow in the chart:
 
 1. Does Mendeley ask that it should be cited?
  
@@ -10,7 +10,10 @@ He doesn’t know so she uses the workflow in the chart:
  
  No
 
-3. Do the authors of the software rely on academic credit for funding?
+3. Did the software manipulate or create your data, software or other outputs?
+ No
+
+4. Do the authors of the software rely on academic credit for funding?
  
  No
 
