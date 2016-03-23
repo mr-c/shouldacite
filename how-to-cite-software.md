@@ -14,18 +14,21 @@
     * Email the authors, open an issue in their issue tracker, or ask on a user
       support forum. While waiting for a response continue to question 2.
 
-## 2. Is there a DOI for the software?
+## 2. Is there a DOI for the software itself?
 
-* If **yes**, then use http://www.doi2bib.org/ to get a citation
+* If **yes**, then use [doi2bib.org] to get a citation.
 * If **not**, or if you don't know, continue to question 3.
 
 ## 3. Is there a software paper and does it have a link to the software?
 
- * If **yes**, then cite the paper.
- * If **not**, the construct a [citation online]
+ * If **yes**, then cite the paper. Either use [doi2bib.org] to get the
+   citation or construct a [citation online] using the software paper.
+ * If **not**, the construct a [citation online] using the URL to the software.
 
 [CITATION]: http://www.software.ac.uk/blog/2013-09-02-encouraging-citation-software-introducing-citation-files
 
 [README]: https://en.wikipedia.org/wiki/README
 
 [citation online]: https://www.citethisforme.com/cite/software
+
+[doi2bib.org]: http://www.doi2bib.org
