@@ -18,6 +18,8 @@ You are writing up your research and wonder if you should cite a particular soft
 
 ## 2. Did the software play a critical part in, or contributed something unique to, your research?
 
+Hint: If you extend, script or automate the software, then you should cite the code.
+
 * If **yes**, then you must cite the software.
 * If **not**, or if you don't know, continue to question 3.
 
