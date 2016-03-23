@@ -7,11 +7,20 @@ from flask import Flask, render_template, Markup
 app = Flask(__name__)
 
 
-@app.route('/')
-def index():
-    with open(path.join('..', 'decision-tree.md')) as f:
+def render(f_name):
+    with open(path.join('..', f_name)) as f:
         content = Markup(markdown.markdown(''.join(f.readlines())))
     return render_template('index.html', content=content)
+
+
+@app.route('/')
+def index():
+    return render('should-I-cite-this-software.md')
+
+
+@app.route('/how')
+def how():
+    return render('how-to-cite-software.md')
 
 
 if __name__ == '__main__':
