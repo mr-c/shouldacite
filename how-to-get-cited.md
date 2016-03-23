@@ -2,8 +2,8 @@
 
 ## 1. Create a DOI for your software if there isn't a software paper
 
-* [Zenodo] will mint a new DOI for every release on GitHub.
-* Or you can upload to [Figshare] to get a DOI.
+* [Zenodo](https://guides.github.com/activities/citable-code/) will mint a new DOI for every release on GitHub.
+* Or you can upload to [Figshare](https://guides.github.com/activities/citable-code/) to get a DOI.
 
 ## 2. Alert users to your citation with a file named [CITATION]
 
