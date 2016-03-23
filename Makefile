@@ -1,4 +1,5 @@
 html:
+	cp shoudacite_base.png shoudacite_comic.png app/static/
 	cd app && python freeze.py
 
 publish: html
