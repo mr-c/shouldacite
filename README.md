@@ -1,7 +1,8 @@
 # ShouldaCite
 
-ShouldaCite will help you answer the question: **"Should I cite this piece of
-software in my academic work?"**
+You are writing up your research and wonder if you should cite a particular software package that you used.
+
+[Should you cite this particular piece of software?](should-I-cite-this-software.md)
 
 # Web page
 
