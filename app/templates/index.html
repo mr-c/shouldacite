@@ -7,14 +7,14 @@
             <nav class="uk-navbar uk-margin-large-bottom">
                 <a class="uk-navbar-brand uk-hidden-small" href="{{ url_for('index') }}">Should I cite?</a>
                 <ul class="uk-navbar-nav uk-hidden-small">
-                    <li class="uk-active">
+                    <li {% if what == 'should' %} class="uk-active"{% endif %}>
                         <a href="{{ url_for('index') }}">Should I?</a>
                     </li>
-                    <li>
+                    <li {% if what == 'how' %} class="uk-active"{% endif %}>
                         <a href="#">How to cite software?</a>
                     </li>
-                    <li>
-                        <a href="{{ url_for('how') }}">How to make software citable?</a>
+                    <li {% if what == 'how_make' %} class="uk-active"{% endif %}>
+                        <a href="{{ url_for('how_make') }}">How to make software citable?</a>
                     </li>
                 </ul>
             </nav>
