@@ -11,6 +11,7 @@ He doesn’t know so he uses the workflow in the chart:
  No
 
 3. Did the software manipulate or create your data, software or other outputs?
+ 
  No
 
 4. Do the authors of the software rely on academic credit for funding?
