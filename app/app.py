@@ -1,4 +1,5 @@
 from os import path
+from collections import OrderedDict
 
 import markdown
 from flask import Flask, render_template, Markup
@@ -14,13 +15,23 @@ def render(f_name, what=None):
 
 
 @app.route('/')
-def index():
-    return render('should-I-cite-this-software.md', what='should')
+@app.route('/<what>')
+def index(what=''):
+    pages = OrderedDict(
+        [
+            ('', ('should-I-cite-this-software.md', 'Should I?')),
+            # ('how.html', ('how_make_citable.html', 'How to cite?')),
+            ('how.html', ('how-to-cite-software.md', 'How to cite?')),
+            ('example1.html', ('SampleWorkflow.md', 'Example 1')),
+            ('example2.html', ('SampleWorkflowNoCitation.md', 'Example 2')),
+        ]
+    )
+    f_name, caption = pages[what]
 
+    with open(path.join('..', f_name)) as f:
+        content = Markup(markdown.markdown(''.join(f.readlines())))
 
-@app.route('/how_make_citable.html')
-def how_make():
-    return render('how-to-cite-software.md', what='how_make')
+    return render_template('index.html', content=content, what=what, pages=pages)
 
 
 if __name__ == '__main__':
