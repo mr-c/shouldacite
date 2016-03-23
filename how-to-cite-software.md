@@ -28,4 +28,4 @@
 
 [README]: https://en.wikipedia.org/wiki/README
 
-[citation online] https://www.citethisforme.com/cite/software
+[citation online]: https://www.citethisforme.com/cite/software
