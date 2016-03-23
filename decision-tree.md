@@ -1,3 +1,7 @@
+You are writing up your research and wonder if you should cite a particular software package that you used.
+
+# Should you cite this particular piece of software?
+
 # 1. Does the software ask you to cite it?
  
 * If **yes**, then do so following their guidelines.
