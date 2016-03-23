@@ -34,11 +34,10 @@
             <div class="uk-grid" data-uk-grid-margin="">
                 <div class="uk-width-medium-4-5 uk-row-first">
 
-                    <p>You are writing up your research and wonder if you should cite a particular software package that you used.</p>
-<h1>Should you cite this particular piece of software?</h1>
-<h2>1. Does the software ask you to cite it?</h2>
+                    <h1>How to cite this particular piece of software?</h1>
+<h2>1. Does the software tell you how to cite it?</h2>
 <ul>
-<li>If <strong>yes</strong>, then do so following their guidelines.</li>
+<li>If <strong>yes</strong>, then do so following their guidelines and you are done!</li>
 <li>If <strong>no</strong>, then continue to question 2</li>
 <li>If you <strong>don't know</strong>:<ul>
 <li>Check for a file name <a href="http://www.software.ac.uk/blog/2013-09-02-encouraging-citation-software-introducing-citation-files">CITATION</a> or similar in the root directory of the
@@ -52,22 +51,17 @@ software.</li>
 </ul>
 </li>
 </ul>
-<h2>2. Did the software play a critical part in, or contributed something unique to, your research?</h2>
-<p>Hint: If you extend, script or automate the software, then you should cite the code.</p>
+<h2>2. Is there a DOI for the software?</h2>
 <ul>
-<li>If <strong>yes</strong>, then you must cite the software.</li>
+<li>If <strong>yes</strong>, then use http://www.doi2bib.org/ to get a citation</li>
 <li>If <strong>not</strong>, or if you don't know, continue to question 3.</li>
 </ul>
-<h2>3. Did the software manipulate or create your data? This includes storage, visualization, and communication of your data and results.</h2>
+<h2>3. Is there a software paper and does it have a link to the software?</h2>
 <ul>
-<li>If <strong>yes</strong>, then you need to cite the software.</li>
-<li>If <strong>not</strong>, or if you don't know, continue to question 4</li>
+<li>If <strong>yes</strong>, then cite the paper.</li>
+<li>If <strong>not</strong>, the construct a [citation online]</li>
 </ul>
-<h2>4. Do the authors of the software rely on academic credit for funding? Look for academic institutions in email addresses, URLs.</h2>
-<ul>
-<li>If <strong>yes</strong>, then you must cite the software.</li>
-<li>If <strong>not</strong>, then you don't have to cite the software.</li>
-</ul>
+<p>[citation online] https://www.citethisforme.com/cite/software</p>
 
                 </div>
 
