@@ -18,7 +18,7 @@ def index():
     return render('should-I-cite-this-software.md')
 
 
-@app.route('/how')
+@app.route('/how.html')
 def how():
     return render('how-to-cite-software.md')
 
