@@ -20,8 +20,8 @@ def index(what=''):
     pages = OrderedDict(
         [
             ('', ('should-I-cite-this-software.md', 'Should I?')),
-            # ('how.html', ('how_make_citable.html', 'How to cite?')),
             ('how.html', ('how-to-cite-software.md', 'How to cite?')),
+            ('how-to-get-cited.html', ('how-to-get-cited.md', 'How to get cited?')),
             ('example1.html', ('SampleWorkflow.md', 'Example 1')),
             ('example2.html', ('SampleWorkflowNoCitation.md', 'Example 2')),
         ]

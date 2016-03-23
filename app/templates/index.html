@@ -8,7 +8,7 @@
                 <a class="uk-navbar-brand uk-hidden-small" href="{{ url_for('index') }}">Should I cite?</a>
                 <ul class="uk-navbar-nav uk-hidden-small">
                     {% for page, (f_name, caption) in pages.items() %}
-                    <li {% if what == 'should' %} class="uk-active"{% endif %}>
+                    <li {% if what == page %} class="uk-active"{% endif %}>
                         <a href="{{ url_for('index', what=page) }}">{{ caption }}</a>
                     </li>
                     {% endfor %}
