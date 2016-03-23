@@ -4,6 +4,8 @@ You are writing up your research and wonder if you should cite a particular soft
 
 [Should you cite this particular piece of software?](should-I-cite-this-software.md)
 
+http://bit.ly/shouldacite
+
 # Web page
 
 * To generate a webpage you need to install `flask`, `markdown`, `frozen-flask`
