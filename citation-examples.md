@@ -1,3 +1,5 @@
+Example generated from http://search.crossref.org/?q=10.4028%2Fwww.scientific.net%2FAMR.331.44#
+
 Chicago
 
 > Lin, Hua, Louise P Brown, and Andrew C Long. “Modelling and Simulating
