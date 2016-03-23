@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% block content %}
+<body>
+
+        <div class="uk-container uk-container-center uk-margin-top uk-margin-large-bottom">
+
+            <nav class="uk-navbar uk-margin-large-bottom">
+                <a class="uk-navbar-brand uk-hidden-small" href="#">Should I cite?</a>
+                <ul class="uk-navbar-nav uk-hidden-small">
+                    <li class="uk-active">
+                        <a href="#">Should I?</a>
+                    </li>
+                    <li>
+                        <a href="layouts_portfolio.html">How to cite sosftware?</a>
+                    </li>
+                    <li>
+                        <a href="layouts_blog.html">How to make software citable?</a>
+                    </li>
+                </ul>
+            </nav>
+
+            <div class="uk-grid" data-uk-grid-margin="">
+                <div class="uk-width-medium-4-5 uk-row-first">
+
+                    {{ content }}
+
+                </div>
+
+                <div class="uk-width-medium-1-5"></div>
+
+            </div>
+
+        </div>
+
+</body>
+{% endblock %}
