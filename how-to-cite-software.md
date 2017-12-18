@@ -24,6 +24,10 @@
  * If **yes**, then cite the paper. Either use [doi2bib.org] to get the
    citation or construct a [citation online] using the software paper.
  * If **not**, the construct a [citation online] using the URL to the software.
+ 
+## 4. Try CiteAs
+
+ * http://citeas.org/
 
 [CITATION]: http://www.software.ac.uk/blog/2013-09-02-encouraging-citation-software-introducing-citation-files
 
