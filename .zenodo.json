@@ -1,0 +1,42 @@
+{
+  "creators": [
+    {
+      "name": "Brown, Louise",
+      "orcid": "0000-0001-6493-6850"
+    },
+    {
+      "name": "Crusoe, Michael R.",
+      "orcid": "0000-0002-2961-9670"
+    },
+    {
+      "name": "Miļajevs, Dmitrijs",
+      "affiliation": "Queen Mary, University of London"
+    },
+    {
+      "name": "Romanowska, Iza",
+      "orcid": "0000-0002-9487-2111"
+    }
+  ],
+  "keywords": [
+    "citation",
+    "software citation",
+    "software credit"
+  ],
+  "license": "CC-BY-4.0",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "title": "Should you cite this particular piece of software?",
+  "access_right": "open",
+  "contributors": [
+    {
+      "name": "Crusoe, Michael R.",
+      "orcid": "0000-0002-2961-9670",
+      "type": "ContactPerson"
+    }
+  ],
+  "references": [
+    "Mike Jackson. How to cite and describe software. Software Sustainability Institute. . URL:https://www.software.ac.uk/how-cite-software. Accessed: 2019-02-07. (Archived by WebCite® at http://www.webcitation.org/760MTAdy5)",
+    "Robin Wilson. Encouraging citation of software – introducing CITATION files. Robin's Blog. . URL:http://blog.rtwilson.com/encouraging-citation-of-software-introducing-citation-files/. Accessed: 2019-02-07. (Archived by WebCite® at http://www.webcitation.org/760MWN7Lj)"
+  ],
+  "language": "eng"
+}
