@@ -1,4 +1,4 @@
-Susie is a composites researcher who has used [ImageJ](http://imagej.net/) to process her microCT images.  Should she cite the software?
+Susie is a composites researcher who has **used** [ImageJ](http://imagej.net/) to process her microCT images.  Should she cite the software?
 
 She doesn’t know so she uses the workflow in the chart:
 
