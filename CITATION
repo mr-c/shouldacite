@@ -1,0 +1,15 @@
+How to cite "shouldacite":
+
+Brown, Louise, Crusoe, Michael R., Miļajevs, Dmitrijs, & Romanowska, Iza. (2019, February 7). Should you cite this particular piece of software? (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.2559142
+
+@misc{brown_louise_2019_2559142,
+  author       = {Brown, Louise and
+                  Crusoe, Michael R. and
+                  Miļajevs, Dmitrijs and
+                  Romanowska, Iza},
+  title        = {{Should you cite this particular piece of software?}},
+  month        = feb,
+  year         = 2019,
+  doi          = {10.5281/zenodo.2559142},
+  url          = {https://doi.org/10.5281/zenodo.2559142}
+}
