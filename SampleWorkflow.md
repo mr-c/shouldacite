@@ -2,9 +2,11 @@ Susie is a composites researcher who has used [ImageJ](http://imagej.net/) to pr
 
 She doesn’t know so she uses the workflow in the chart:
 
-1. Does ImageJ ask that it should be cited?
+1. Did the software play a critical part in, or contributed something unique to, your research?
+
+
+It did, so she should cite it. The researchers looks at  "how to cite software".
  
- She doesn’t know so follows the ‘I don’t know’ path.
  
  There is [no CITATION file](https://github.com/imagej/imagej) so she checks the [README](https://github.com/imagej/imagej/blob/master/README.md) which also does not contain information on how to cite.
  The website doesn’t show anything obvious so she does a search for ‘citing imagej’ which takes her to [FAQ page](http://rsb.info.nih.gov/ij/docs/faqs.html#cite) giving the following information:
