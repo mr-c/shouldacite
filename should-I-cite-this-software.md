@@ -1,4 +1,6 @@
-You are writing up your research and wonder if you should cite a particular software package that you used.
+You are writing up your research and wonder if you should cite a particular software package that **you used**.
+
+(This guide is not for making the citation decision for software related to the that which you wrote or are using)
 
 # Should you cite this particular piece of software?
 
